@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> Thay doi nho nhe
 #include <math.h>
 int main()
 {
